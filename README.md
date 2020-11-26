@@ -12,3 +12,6 @@ Youtube Link: https://www.youtube.com/watch?v=MtTBqIAQ434 or MtTBqIAQ434
 ```
 
 This will automatically save on where the script was stored.
+
+
+***If you want to make changes, go change it by yourself***
