@@ -14,7 +14,6 @@ python -r requirements.txt
 
 ```
 
-
 python3 yt2mp3.py
 
 Format: mp3 or mp4
