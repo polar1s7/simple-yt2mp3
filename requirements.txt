@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.1
 bs4==0.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 requests==2.23.0
 clint==0.5.1
